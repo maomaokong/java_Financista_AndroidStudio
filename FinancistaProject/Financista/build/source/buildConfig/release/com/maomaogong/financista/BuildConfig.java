@@ -1,0 +1,7 @@
+/** Automatically generated file. DO NOT MODIFY */
+package com.maomaogong.financista;
+
+public final class BuildConfig {
+    public final static boolean DEBUG = false;
+
+}
